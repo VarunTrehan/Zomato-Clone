@@ -31,7 +31,7 @@
 
 ## 🚀 How to Use 🚀
 
-1. Clone the repository: `https://github.com/JanviSingh1712/Zomato_Clone` 🌐
+1. Clone the repository: `https://github.com/VarunTrehan/Zomato-Clone.git` 🌐
 2. Open `index.html` in your web browser to view the application. 🌍
 
 ## 🤝 Contributing 🤝
