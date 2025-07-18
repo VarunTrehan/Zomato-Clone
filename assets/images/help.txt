@@ -1,0 +1,8 @@
+.hero-section {
+  background-image: url('images/Nav.jpg');
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  padding: 60px 20px;
+  color: white;
+}
